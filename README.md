@@ -1,2 +1,4 @@
 # netshopping_scheduler
 通販したら配達予定日がTimeTreeに入るやつ
+
+AWS lambdaで動作させる予定。別途requestsを利用できるLayer等が必要です。
